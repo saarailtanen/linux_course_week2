@@ -22,7 +22,7 @@ PAGE = """<!DOCTYPE html>
   <p>The counter is stored in a MariaDB database. Every page load increases the value by one.</p>
   <h2>Restart test</h2>
   <p>Test done and was succesfull</p>
-  <p><a href="https://github.com/YOURNAME/YOURREPO">Project source code on GitHub</a></p>
+  <p><a href="https://github.com/saarailtanen/linux_course_week2">Project source code on GitHub</a></p>
 </body>
 </html>"""
 
